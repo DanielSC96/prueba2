@@ -1,0 +1,5 @@
+
+2 - Hacer fork del pryecto
+1 - En el archivo index.html encontraras 
+una tabla, debe agregar su nombre, apellido y 
+nombre de usuario em GitHub
